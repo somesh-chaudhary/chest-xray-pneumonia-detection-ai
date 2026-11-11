@@ -1,0 +1,2 @@
+Cross-Operator_accuracy,Cross-Operator_sensitivity,Cross-Operator_specificity,Cross-Operator_precision,Cross-Operator_f1,Cross-Operator_roc_auc,Cross-Operator_pr_auc,Cross-Operator_mcc,Cross-Operator_kappa,Cross-Operator_ppv,Cross-Operator_npv,Cross-Operator_fpr,Cross-Operator_fnr,Cross-Operator_samples,accuracy_drop,true_positives,true_negatives,false_positives,false_negatives
+0.859793814,0.964143426,0.747863248,0.803986711,0.876811594,0.964262608,0.967678435,0.733224039,0.717196316,0.803986711,0.951086957,0.252136752,0.035856574,485,0.088206186,242,175,59,9
